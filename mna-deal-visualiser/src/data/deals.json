@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-12",
+    "acquirer": "Microsoft",
+    "target": "Activision Blizzard",
+    "value": 68700,
+    "sector": "Technology",
+    "region": "North America"
+  },
+  {
+    "id": 2,
+    "date": "2023-10-03",
+    "acquirer": "Chevron",
+    "target": "Hess Corp",
+    "value": 53000,
+    "sector": "Energy",
+    "region": "North America"
+  },
+  {
+    "id": 3,
+    "date": "2024-03-21",
+    "acquirer": "Nestlé",
+    "target": "Orgain",
+    "value": 2300,
+    "sector": "Consumer Goods",
+    "region": "Europe"
+  },
+  {
+    "id": 4,
+    "date": "2024-04-18",
+    "acquirer": "Apple",
+    "target": "Canoo",
+    "value": 1800,
+    "sector": "Technology",
+    "region": "North America"
+  },
+  {
+    "id": 5,
+    "date": "2023-09-07",
+    "acquirer": "Pfizer",
+    "target": "Seagen",
+    "value": 43000,
+    "sector": "Healthcare",
+    "region": "North America"
+  },
+  {
+    "id": 6,
+    "date": "2023-12-12",
+    "acquirer": "Visa",
+    "target": "Plaid",
+    "value": 5200,
+    "sector": "Finance",
+    "region": "North America"
+  },
+  {
+    "id": 7,
+    "date": "2024-01-30",
+    "acquirer": "Unilever",
+    "target": "The Honest Co.",
+    "value": 950,
+    "sector": "Consumer Goods",
+    "region": "Europe"
+  },
+  {
+    "id": 8,
+    "date": "2024-02-25",
+    "acquirer": "Siemens",
+    "target": "Bright Machines",
+    "value": 3200,
+    "sector": "Industrials",
+    "region": "Europe"
+  },
+  {
+    "id": 9,
+    "date": "2023-08-14",
+    "acquirer": "JPMorgan",
+    "target": "Nutmeg",
+    "value": 1200,
+    "sector": "Finance",
+    "region": "Europe"
+  },
+  {
+    "id": 10,
+    "date": "2024-03-15",
+    "acquirer": "Amazon",
+    "target": "iRobot",
+    "value": 1700,
+    "sector": "Technology",
+    "region": "North America"
+  }
+]
